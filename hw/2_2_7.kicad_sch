@@ -770,7 +770,6 @@
     )
   )
 
-
   (junction (at 59.69 31.75) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 96.52 85.09) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 159.258 73.66) (diameter 1.016) (color 0 0 0 0))
@@ -1216,37 +1215,37 @@
   )
   (text "https://www.diodes.com/assets/Datasheets/AP64501.pdf"
     (at 176.53 109.22 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 63418278-d3a7-4a55-bf48-1f7283333d05)
   )
   (text "https://www.bourns.com/docs/Product-Datasheets/SRN6045TA.pdf"
     (at 181.61 116.84 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 069092a7-f9e4-455b-9efb-34349e9f00a3)
   )
   (text "https://cz.mouser.com/datasheet/2/315/ABE0000C49-947552.pdf"
     (at 181.61 132.08 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8aad5582-a34c-42e8-b5eb-9b309b94f246)
   )
   (text "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf"
     (at 195.58 113.03 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7055c9de-d521-4197-9131-d2a3afcb9f85)
   )
   (text "https://www.murata.com/en-global/products/productdetail.aspx?partno=GRM21BC8YA106ME11%23"
     (at 196.85 128.27 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 79944f9f-85de-4a7f-a5b9-b604614141e6)
   )
   (text "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf"
     (at 198.12 120.65 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8b1bbb9a-181b-4c34-90cf-9d22562ed3c9)
   )
   (text "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf"
     (at 198.12 124.46 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a01c407c-5bb6-4946-b8f5-b1ea808891fb)
   )
 

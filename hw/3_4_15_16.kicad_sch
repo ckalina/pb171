@@ -678,7 +678,6 @@
     )
   )
 
-
   (junction (at 31.75 20.32) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 31.75 25.4) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 44.45 41.91) (diameter 0.9144) (color 0 0 0 0))
@@ -2940,7 +2939,7 @@
     (uuid 0080e9ee-9ba4-4778-bfe0-356ff7782f58)
   )
   (text "I²C" (at 72.39 114.3 180)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1dfbaf80-acc1-4f81-a6ea-d6b8ed07bd26)
   )
   (text "External Interrupts" (at 86.36 138.43 180)

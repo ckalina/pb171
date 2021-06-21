@@ -479,7 +479,6 @@
     )
   )
 
-
   (junction (at 134.62 33.02) (diameter 0.9144) (color 0 0 0 0))
 
   (no_connect (at 157.48 40.64) (uuid ee14fd77-5b20-4013-9cc5-4fb891f3f49d))

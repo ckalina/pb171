@@ -1014,7 +1014,6 @@
     )
   )
 
-
   (junction (at 48.26 19.05) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 110.49 19.05) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 233.68 21.59) (diameter 0.9144) (color 0 0 0 0))

@@ -894,7 +894,6 @@
     )
   )
 
-
   (junction (at 45.72 38.1) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 90.17 91.44) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 159.258 73.66) (diameter 1.016) (color 0 0 0 0))
@@ -1569,7 +1568,7 @@
   )
   (text "https://www.diodes.com/assets/Datasheets/AP64501.pdf"
     (at 180.34 109.22 0)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c0b0b5bb-128b-4bad-94c4-b30a9d263e82)
   )
 

@@ -339,7 +339,6 @@
   )
 
 
-
   (wire (pts (xy 114.3 92.71) (xy 120.65 92.71))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid b5d0aa10-58cd-4913-a3df-c3b800b12e15)
@@ -367,7 +366,7 @@
     (uuid bdec9d27-b3fd-44c6-95b7-692b2e8bb7aa)
   )
   (text "https://docs.broadcom.com/docs/ASMG-PT00-DS100" (at 186.69 86.36 180)
-    (effects (font (size 1.27 1.27)))
+    (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid dc1f012f-95ca-462d-b5ab-d96e0733c9c7)
   )
 
