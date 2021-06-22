@@ -4,9 +4,11 @@
 
 TEST(test_readbytes)
 {
+	u8 buf[10];
+
 	begin(9600);
 
-	char buf[10];
+	uprintf("Please enter input:\n");
 	if (!readBytes(buf, 10)) {
 		uprintf("Timed out.\n");
 		return;
