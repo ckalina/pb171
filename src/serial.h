@@ -71,6 +71,7 @@ int uprintf(char *fmt, ...);
 int uprintf_debug(char *fmt, ...);
 void empty_irq(void);
 int parseInt(u16 *data);
+int readBytes(u8 *data, u16 sz);
 
 static inline int print_int(int i)
 {
