@@ -11,6 +11,10 @@ void test_eeprom_struct()
 		u8 bar;
 	} in = { .foo = 5, .bar = 10 }, out;
 
+	/* Added just to avoid error: unused variable 'in' 
+	 * in READONLY test */
+	(void) in;
+
 # ifndef TEST_EEPROM_READONLY
 	if (!eeprom_put(0, &in, sizeof(in))) {
 		signal_led(3);
